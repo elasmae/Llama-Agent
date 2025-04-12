@@ -1,0 +1,7 @@
+llama-index
+openai
+pytest
+gradio
+fastapi
+uvicorn
+chromadb
