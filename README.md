@@ -21,7 +21,7 @@ Includes: Basic, Tool-Augmented, Stateful, Multi-Agent systems + FastAPI, Gradio
 - Makefile for simplified DevOps commands
 
 
-## 📦 MLOps Highlights
+##  MLOps Highlights
 
 - Testable agent pipelines with `pytest`
 - Consistent code quality: `black`, `flake8`
@@ -30,7 +30,7 @@ Includes: Basic, Tool-Augmented, Stateful, Multi-Agent systems + FastAPI, Gradio
 - Retrieval-augmented agents with ChromaDB
 
 
-## 📁  Structure
+##   Structure
 
 ```
 agents/       → Agent definitions  
